@@ -1,7 +1,7 @@
 # Kotlin Programming 11
 ---
 ## Learning Objectives ✨
-- variablesjjn
+- variables
 - conditionals
 
 ## Getting strated 
