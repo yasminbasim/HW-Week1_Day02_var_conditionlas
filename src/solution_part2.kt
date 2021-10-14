@@ -1,3 +1,4 @@
+//part2
 fun main(){
  val player1="player1"
  val lifePontPlayer1=100
