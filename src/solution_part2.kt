@@ -15,5 +15,4 @@ fun main(){
  }else {
   println("player $player2 your health is awful")
  }
-
 }
